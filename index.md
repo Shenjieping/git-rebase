@@ -2,6 +2,8 @@
 
 # git rease
 
-# git merge
+# git merge 3
 
-# git rease
+# git rease 3
+
+# git merge 3
